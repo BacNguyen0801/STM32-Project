@@ -1,0 +1,2 @@
+1> User name: admin
+2> pass: none
